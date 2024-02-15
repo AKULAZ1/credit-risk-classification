@@ -16,9 +16,9 @@ For each model, the data was split into training and testing sets. The former we
 
 
 * Machine Learning Model 2:
-  * Accuracy: 0.995
+  * Accuracy: 0.994
   * Precision: 0- 1; 1- 0.87
-  * Recall: 0- 1; 1- 1
+  * Recall: 0- 1; 1- 0.99
 
 ## Summary
 
